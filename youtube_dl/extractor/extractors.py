@@ -567,7 +567,6 @@ from .khanacademy import (
     KhanAcademyIE,
     KhanAcademyUnitIE,
 )
-from .kick import KickIE
 from .kickstarter import KickStarterIE
 from .kinja import KinjaEmbedIE
 from .kinopoisk import KinoPoiskIE
@@ -1447,7 +1446,6 @@ from .uplynk import (
     UplynkIE,
     UplynkPreplayIE,
 )
-from .upride import UprideIE
 from .urort import UrortIE
 from .urplay import URPlayIE
 from .usanetwork import USANetworkIE
@@ -1555,7 +1553,6 @@ from .vrv import (
 )
 from .vshare import VShareIE
 from .vtm import VTMIE
-from .vtv import VTVIE
 from .medialaan import MedialaanIE
 from .vube import VubeIE
 from .vuclip import VuClipIE
